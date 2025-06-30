@@ -13,7 +13,7 @@ Below is a table description of loan_users.csv features, pulled from Kaggle user
 | car_ownership      | Does the person own a car                     | string |
 | CURRENT_JOB_YRS    | Years of experience in the current job        | int    |
 | CURRENT_HOUSE_YRS  | Number of years in the current residence      | int    |
-| CTIY               | City of residence                             | string |
+| CITY               | City of residence                             | string |
 | STATE              | State of residence                            | string |
 | risk_flag          | Defaulted on a loan                           | string |
 
